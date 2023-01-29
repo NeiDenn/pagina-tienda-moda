@@ -25,6 +25,11 @@
 - Crea una cuenta
 - y muchos más
 
+- 😺 Permí prueba de lista desordenada
+* 👀 Me ifasfd
++ 🌱 Actualsdfsadf
+- 🤖 Me asdfasdf
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
