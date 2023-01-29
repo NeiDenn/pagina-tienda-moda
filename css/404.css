@@ -1,0 +1,15 @@
+.imgfour{
+    display: block;
+    margin: 10px auto;
+    height: 500px;
+}
+
+.msgfour{
+    text-align: center;
+    text-transform: capitalize;
+    color: #383838;
+}
+
+.msgfour a{
+    color: #383838;
+}

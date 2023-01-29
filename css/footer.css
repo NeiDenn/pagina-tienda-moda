@@ -1,0 +1,92 @@
+footer{
+    position: relative;
+    width: 100%;
+    padding: 40px 10vw;
+    padding-bottom: 80px;
+    background: #383838;
+}
+
+.contenidodefooter{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.contenidodefooter .logo{
+    height: 160px;
+}
+
+.contenedorfooterul{
+    width: 45%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.categoria{
+    width: 200px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    list-style: none;
+}
+
+.titulodecategoria{
+    grid-column: span 2;
+    text-transform: capitalize;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 18px;
+}
+
+.categoria .enlacedefooter{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.enlacedefooter:hover{
+    color: #fff;
+}
+
+.titulodefooter, .info{
+    color: rgba(255, 255, 255, 0.75);
+    margin: 20px 0;
+    text-transform: capitalize;
+}
+
+.titulodefooter{
+    margin-top: 80px;
+    color: #fff;
+}
+
+.contenedorsocial{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.enlacesocial{
+    color: #fff;
+    margin-left: 20px;
+    text-transform: capitalize;
+}
+
+.enlacesocial:nth-child(1){
+    margin-left: 0;
+}
+
+.creditofooter{
+    width: 100%;
+    padding: 10px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.2) ;
+}
+
+.info{
+    text-align: justify;
+}
