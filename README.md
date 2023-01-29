@@ -16,6 +16,15 @@
 ![image](https://user-images.githubusercontent.com/85379478/215337475-30e0df47-de9c-4d5a-9a66-9347ea89e3da.png)
 ![image](https://user-images.githubusercontent.com/85379478/215337489-8d3d65d2-50dd-4f4d-82ec-14e551b0dd0f.png)
 
+## Features
+
+- Anuncios gratis
+- Ropas (niñ@s, damas, hombres)
+- Accesorios (niñ@s, damas, hombres)
+- Inicio de sesion
+- Crea una cuenta
+- y muchos más
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
