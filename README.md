@@ -23,6 +23,7 @@
 - Accesorios (niñ@s, damas, hombres)
 - Inicio de sesion
 - Crea una cuenta
+- No adaptable a disposivos móviles
 - y muchos más
 
 ## Contributing
